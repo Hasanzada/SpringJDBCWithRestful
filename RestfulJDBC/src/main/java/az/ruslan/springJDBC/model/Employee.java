@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Employee implements Serializable {
 
 	/**
-	 * 
+	 * model class
 	 */
 	private static final long serialVersionUID = 1L;
 
